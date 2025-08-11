@@ -41,21 +41,21 @@ Azure Monitor was configured to track key performance metrics and send proactive
 
 1. VM metrics dashboard.  
 
-<img width="718" height="397" alt="image" src=./screenshots/Image1 />
+<img width="718" height="397" alt="image" src=./screenshots/Image1.png />
 
-<img width="718" height="397" alt="image" src=./screenshots/Image1 />
+<img width="718" height="397" alt="image" src=./screenshots/Image2.png />
 
 2. CPU usage alert configuration.  
 
-<img width="718" height="397" alt="image" src=./screenshots/Image3 />
+<img width="718" height="397" alt="image" src=./screenshots/Image3.png />
 
-<img width="718" height="397" alt="image" src=./screenshots/Image4 />
+<img width="718" height="397" alt="image" src=./screenshots/Image4.png />
 
 3. Alert email notification received.
 
-<img width="718" height="397" alt="image" src=./screenshots/Image5 />
+<img width="718" height="397" alt="image" src=./screenshots/Image5.png />
 
-<img width="718" height="397" alt="image" src=./screenshots/Image6 />
+<img width="718" height="397" alt="image" src=./screenshots/Image6.png />
 
 
 ## 📚 Learnings
